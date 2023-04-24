@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">Электронная почта</string>
     <string name="kevin_window_main_amount_label">Сумма платежа</string>
     <string name="kevin_window_main_country_label">Страна</string>
-    <string name="kevin_window_main_country_charity_label">Выберите страну и благотворительную организацию</string>
     <string name="kevin_window_main_subtitle_label">Выберите благотворительную организацию, в которую вы хотите сделать пожертвование</string>
     <string name="kevin_window_main_title_label">Перенаправить платеж</string>
     <string name="kevin_window_main_email_blank_error">Требуется указать адрес электронной почты</string>

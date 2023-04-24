@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">Διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
     <string name="kevin_window_main_amount_label">Ποσό πληρωμής</string>
     <string name="kevin_window_main_country_label">Χώρα</string>
-    <string name="kevin_window_main_country_charity_label">Επιλέξτε χώρα και φιλανθρωπική οργάνωση</string>
     <string name="kevin_window_main_subtitle_label">Επιλέξτε μια φιλανθρωπική οργάνωση στην οποία θέλετε να κάνετε δωρεά</string>
     <string name="kevin_window_main_title_label">Ανακατεύθυνση πληρωμής</string>
     <string name="kevin_window_main_email_blank_error">Απαιτείται διεύθυνση ηλεκτρονικού ταχυδρομείου</string>

@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">El. pašto adresas</string>
     <string name="kevin_window_main_amount_label">Mokėjimo suma</string>
     <string name="kevin_window_main_country_label">Šalis</string>
-    <string name="kevin_window_main_country_charity_label">Pasirinktie šalį ir labdaros organizaciją</string>
     <string name="kevin_window_main_subtitle_label">Pasirinkite labdaros organizaciją, kuriai norite aukoti</string>
     <string name="kevin_window_main_title_label">Nukreipti mokėjimą</string>
     <string name="kevin_window_main_email_blank_error">El. pašto adresas privalomas</string>

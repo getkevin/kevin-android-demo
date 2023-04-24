@@ -12,7 +12,6 @@
     <string name="kevin_window_main_email_label">E-mail</string>
     <string name="kevin_window_main_amount_label">Payment amount</string>
     <string name="kevin_window_main_country_label">Country</string>
-    <string name="kevin_window_main_country_charity_label">Select country and charity</string>
     <string name="kevin_window_main_subtitle_label">Pick a charity you want to donate to</string>
     <string name="kevin_window_main_title_label">Redirect payment</string>
     <string name="kevin_window_main_email_blank_error">E-mail address is required</string>

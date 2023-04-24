@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">E-postadress</string>
     <string name="kevin_window_main_amount_label">Belopp att betala</string>
     <string name="kevin_window_main_country_label">Land</string>
-    <string name="kevin_window_main_country_charity_label">Välj land och välgörenhet</string>
     <string name="kevin_window_main_subtitle_label">Välj en välgörenhet som du vill skänka till</string>
     <string name="kevin_window_main_title_label">Dirigera om betalningen</string>
     <string name="kevin_window_main_email_blank_error">E-postadress krävs</string>

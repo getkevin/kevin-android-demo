@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">E-naslov</string>
     <string name="kevin_window_main_amount_label">Znesek plačila</string>
     <string name="kevin_window_main_country_label">Država</string>
-    <string name="kevin_window_main_country_charity_label">Izberite državo in dobrodelno organizacijo</string>
     <string name="kevin_window_main_subtitle_label">Izberite dobrodelno organizacijo, kateri želite donirati</string>
     <string name="kevin_window_main_title_label">Preusmeritev plačila</string>
     <string name="kevin_window_main_email_blank_error">E-naslov je obvezen</string>

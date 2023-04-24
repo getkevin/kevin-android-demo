@@ -11,7 +11,6 @@ Paiement bancaire</string>
     <string name="kevin_window_main_email_label">E-mail</string>
     <string name="kevin_window_main_amount_label">Montant du paiement</string>
     <string name="kevin_window_main_country_label">Pays</string>
-    <string name="kevin_window_main_country_charity_label">Sélectionnez le pays et l\'association caritative</string>
     <string name="kevin_window_main_subtitle_label">Choisissez l\'association caritative à laquelle vous souhaitez faire un don</string>
     <string name="kevin_window_main_title_label">Rediriger le paiement</string>
     <string name="kevin_window_main_email_blank_error">L\'adresse e-mail est obligatoire</string>

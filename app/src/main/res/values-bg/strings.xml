@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">Имейл</string>
     <string name="kevin_window_main_amount_label">Сума за плащане</string>
     <string name="kevin_window_main_country_label">Държава</string>
-    <string name="kevin_window_main_country_charity_label">Изберете държава и благотворителна кауза</string>
     <string name="kevin_window_main_subtitle_label">Изберете благотворителна кауза, на която искате да дарите</string>
     <string name="kevin_window_main_title_label">Пренасочване на плащане</string>
     <string name="kevin_window_main_email_blank_error">Изисква се имейл адрес</string>

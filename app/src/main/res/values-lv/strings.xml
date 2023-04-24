@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">E-pasta adrese</string>
     <string name="kevin_window_main_amount_label">Maksājuma summa</string>
     <string name="kevin_window_main_country_label">Valsts</string>
-    <string name="kevin_window_main_country_charity_label">Izvēlieties valsti un ziedojuma saņēmēju</string>
     <string name="kevin_window_main_subtitle_label">Izvēlieties ziedojuma saņēmēju</string>
     <string name="kevin_window_main_title_label">Novirzīt maksājumu</string>
     <string name="kevin_window_main_email_blank_error">Jānorāda e-pasta adrese</string>

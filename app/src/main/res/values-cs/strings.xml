@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">E-mail</string>
     <string name="kevin_window_main_amount_label">Výše platby</string>
     <string name="kevin_window_main_country_label">Země</string>
-    <string name="kevin_window_main_country_charity_label">Vyberte zemi a charitu</string>
     <string name="kevin_window_main_subtitle_label">Vyberte si charitativní organizaci, které chcete přispět</string>
     <string name="kevin_window_main_title_label">Přesměrování platby</string>
     <string name="kevin_window_main_email_blank_error">Je vyžadována e-mailová adresa</string>

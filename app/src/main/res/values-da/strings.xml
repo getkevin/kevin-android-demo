@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">E-mail</string>
     <string name="kevin_window_main_amount_label">Betalingsbeløb</string>
     <string name="kevin_window_main_country_label">Land</string>
-    <string name="kevin_window_main_country_charity_label">Vælg land og velgørenhed</string>
     <string name="kevin_window_main_subtitle_label">Vælg en velgørenhedsorganisation, du ønsker at donere til</string>
     <string name="kevin_window_main_title_label">Omdiriger betaling</string>
     <string name="kevin_window_main_email_blank_error">E-mailadresse er påkrævet</string>

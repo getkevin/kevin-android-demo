@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">Netfang</string>
     <string name="kevin_window_main_amount_label">Upphæð greiðslu</string>
     <string name="kevin_window_main_country_label">Land</string>
-    <string name="kevin_window_main_country_charity_label">Veldu land og góðgerðarstarfsemi</string>
     <string name="kevin_window_main_subtitle_label">Veldu góðgerðarstarfsemi sem þú vilt styðja</string>
     <string name="kevin_window_main_title_label">Endurbeina greiðslu</string>
     <string name="kevin_window_main_email_blank_error">Netfang er nauðsynlegt</string>

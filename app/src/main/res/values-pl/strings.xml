@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">Adres e-mail</string>
     <string name="kevin_window_main_amount_label">Kwota płatności</string>
     <string name="kevin_window_main_country_label">Kraj</string>
-    <string name="kevin_window_main_country_charity_label">Wybierz kraj i organizację charytatywną</string>
     <string name="kevin_window_main_subtitle_label">Wybierz organizację charytatywną, na którą chcesz przekazać darowiznę</string>
     <string name="kevin_window_main_title_label">Przekieruj płatność</string>
     <string name="kevin_window_main_email_blank_error">Adres e-mail jest wymagany</string>

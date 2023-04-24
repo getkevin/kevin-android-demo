@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">Sähköpostiosoite</string>
     <string name="kevin_window_main_amount_label">Maksun summa</string>
     <string name="kevin_window_main_country_label">Maa</string>
-    <string name="kevin_window_main_country_charity_label">Valitse maa ja hyväntekeväisyysjärjestö</string>
     <string name="kevin_window_main_subtitle_label">Valitse hyväntekeväisyysjärjestö, jolle haluat tehdä lahjoituksen</string>
     <string name="kevin_window_main_title_label">Maksun uudelleenohjaus</string>
     <string name="kevin_window_main_email_blank_error">Sähköpostiosoite on pakollinen tieto</string>

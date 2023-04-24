@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">E-Mail-Adresse</string>
     <string name="kevin_window_main_amount_label">Zahlungsbetrag</string>
     <string name="kevin_window_main_country_label">Land</string>
-    <string name="kevin_window_main_country_charity_label">Wählen Sie ein Land und eine gemeinnützige Organisation aus</string>
     <string name="kevin_window_main_subtitle_label">Wählen Sie eine gemeinnützige Organisation, der Sie etwas spenden möchten</string>
     <string name="kevin_window_main_title_label">Zahlung umleiten</string>
     <string name="kevin_window_main_email_blank_error">Die E-Mail-Adresse ist erforderlich.</string>

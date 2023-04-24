@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">E-mail</string>
     <string name="kevin_window_main_amount_label">Importo pagamento</string>
     <string name="kevin_window_main_country_label">Paese</string>
-    <string name="kevin_window_main_country_charity_label">Seleziona Paese e ente di beneficenza</string>
     <string name="kevin_window_main_subtitle_label">Seleziona un ente di beneficenza a cui vuoi donare</string>
     <string name="kevin_window_main_title_label">Reindirizza il pagamento</string>
     <string name="kevin_window_main_email_blank_error">È richiesto l\'indirizzo e-mail</string>

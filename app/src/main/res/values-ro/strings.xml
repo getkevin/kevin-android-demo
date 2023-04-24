@@ -10,7 +10,6 @@
     <string name="kevin_window_main_email_label">E-mail</string>
     <string name="kevin_window_main_amount_label">Suma de plătit</string>
     <string name="kevin_window_main_country_label">Țara</string>
-    <string name="kevin_window_main_country_charity_label">Selectați țara și organizația de caritate</string>
     <string name="kevin_window_main_subtitle_label">Alegeți o organizație de caritate către care doriți să faceți o donație</string>
     <string name="kevin_window_main_title_label">Redirecționarea plății</string>
     <string name="kevin_window_main_email_blank_error">Completarea adresei de e-mail este obligatorie</string>
