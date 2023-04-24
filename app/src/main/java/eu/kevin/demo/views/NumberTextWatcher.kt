@@ -71,7 +71,9 @@ internal class NumberTextWatcher(
                 }
             )
         } catch (numberFormatException: NumberFormatException) {
+            // Ignored
         } catch (parseException: ParseException) {
+            // Ignored
         }
         editText.addTextChangedListener(this)
     }
