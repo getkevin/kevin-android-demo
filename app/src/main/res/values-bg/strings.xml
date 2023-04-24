@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Дарете %s Евро</string>
     <string name="kevin_window_main_bank_payment">Банково плащане</string>
     <string name="kevin_window_main_card_payment">Картово плащане</string>
-    <string name="kevin_window_main_details_lable">Въведете данни</string>
+    <string name="kevin_window_main_details_label">Въведете данни</string>
     <string name="kevin_window_main_email_label">Имейл</string>
     <string name="kevin_window_main_amount_label">Сума за плащане</string>
     <string name="kevin_window_main_country_label">Държава</string>

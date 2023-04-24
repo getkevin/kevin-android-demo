@@ -146,7 +146,7 @@
                 android:layout_marginHorizontal="16dp"
                 android:layout_marginTop="32dp"
                 android:gravity="start"
-                android:text="@string/kevin_window_main_details_lable"
+                android:text="@string/kevin_window_main_details_label"
                 android:textColor="?primaryTextColor"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"

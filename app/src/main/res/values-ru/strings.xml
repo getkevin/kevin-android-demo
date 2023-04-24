@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Пожертвовать • %s евро</string>
     <string name="kevin_window_main_bank_payment">Банковский платеж</string>
     <string name="kevin_window_main_card_payment">Оплата картой</string>
-    <string name="kevin_window_main_details_lable">Введите данные</string>
+    <string name="kevin_window_main_details_label">Введите данные</string>
     <string name="kevin_window_main_email_label">Электронная почта</string>
     <string name="kevin_window_main_amount_label">Сумма платежа</string>
     <string name="kevin_window_main_country_label">Страна</string>

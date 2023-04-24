@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Dona • %s EUR</string>
     <string name="kevin_window_main_bank_payment">Pagamento tramite banca</string>
     <string name="kevin_window_main_card_payment">Pagamento con carta</string>
-    <string name="kevin_window_main_details_lable">Inserisci i dettagli</string>
+    <string name="kevin_window_main_details_label">Inserisci i dettagli</string>
     <string name="kevin_window_main_email_label">E-mail</string>
     <string name="kevin_window_main_amount_label">Importo pagamento</string>
     <string name="kevin_window_main_country_label">Paese</string>

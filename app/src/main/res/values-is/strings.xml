@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Gefa • %s EUR</string>
     <string name="kevin_window_main_bank_payment">Bankagreiðsla</string>
     <string name="kevin_window_main_card_payment">Kortagreiðsla</string>
-    <string name="kevin_window_main_details_lable">Sláðu inn atriðum</string>
+    <string name="kevin_window_main_details_label">Sláðu inn atriðum</string>
     <string name="kevin_window_main_email_label">Netfang</string>
     <string name="kevin_window_main_amount_label">Upphæð greiðslu</string>
     <string name="kevin_window_main_country_label">Land</string>

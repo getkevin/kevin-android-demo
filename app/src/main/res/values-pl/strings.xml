@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Przekaż darowiznę • %s EUR</string>
     <string name="kevin_window_main_bank_payment">Płatność bankowa</string>
     <string name="kevin_window_main_card_payment">Płatność kartą</string>
-    <string name="kevin_window_main_details_lable">Wprowadź szczegóły</string>
+    <string name="kevin_window_main_details_label">Wprowadź szczegóły</string>
     <string name="kevin_window_main_email_label">Adres e-mail</string>
     <string name="kevin_window_main_amount_label">Kwota płatności</string>
     <string name="kevin_window_main_country_label">Kraj</string>

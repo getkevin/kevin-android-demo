@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Lahjoita • %s EUR</string>
     <string name="kevin_window_main_bank_payment">Pankkimaksu</string>
     <string name="kevin_window_main_card_payment">Korttimaksu</string>
-    <string name="kevin_window_main_details_lable">Syötä tiedot</string>
+    <string name="kevin_window_main_details_label">Syötä tiedot</string>
     <string name="kevin_window_main_email_label">Sähköpostiosoite</string>
     <string name="kevin_window_main_amount_label">Maksun summa</string>
     <string name="kevin_window_main_country_label">Maa</string>

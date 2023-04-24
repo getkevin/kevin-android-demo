@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Donacija v višini • %s EUR</string>
     <string name="kevin_window_main_bank_payment">Bančno plačilo</string>
     <string name="kevin_window_main_card_payment">Plačilo s kartico</string>
-    <string name="kevin_window_main_details_lable">Vnos podatkov</string>
+    <string name="kevin_window_main_details_label">Vnos podatkov</string>
     <string name="kevin_window_main_email_label">E-naslov</string>
     <string name="kevin_window_main_amount_label">Znesek plačila</string>
     <string name="kevin_window_main_country_label">Država</string>

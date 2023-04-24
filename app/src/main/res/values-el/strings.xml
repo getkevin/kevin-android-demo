@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Κάντε δωρεά • %s Ευρώ</string>
     <string name="kevin_window_main_bank_payment">Πληρωμή μέσω τραπέζης</string>
     <string name="kevin_window_main_card_payment">Πληρωμή με κάρτα</string>
-    <string name="kevin_window_main_details_lable">Εισαγάγετε λεπτομέρειες</string>
+    <string name="kevin_window_main_details_label">Εισαγάγετε λεπτομέρειες</string>
     <string name="kevin_window_main_email_label">Διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
     <string name="kevin_window_main_amount_label">Ποσό πληρωμής</string>
     <string name="kevin_window_main_country_label">Χώρα</string>

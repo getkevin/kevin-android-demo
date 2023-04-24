@@ -8,7 +8,7 @@
     <string name="kevin_window_main_proceed_button">Donate • %s EUR</string>
     <string name="kevin_window_main_bank_payment">Bank payment</string>
     <string name="kevin_window_main_card_payment">Card payment</string>
-    <string name="kevin_window_main_details_lable">Enter details</string>
+    <string name="kevin_window_main_details_label">Enter details</string>
     <string name="kevin_window_main_email_label">E-mail</string>
     <string name="kevin_window_main_amount_label">Payment amount</string>
     <string name="kevin_window_main_country_label">Country</string>

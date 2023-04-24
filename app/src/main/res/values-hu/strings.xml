@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Adományozás • %s EUR</string>
     <string name="kevin_window_main_bank_payment">Banki fizetés</string>
     <string name="kevin_window_main_card_payment">Kártyás fizetés</string>
-    <string name="kevin_window_main_details_lable">Adja meg a részleteket</string>
+    <string name="kevin_window_main_details_label">Adja meg a részleteket</string>
     <string name="kevin_window_main_email_label">E-mail cím</string>
     <string name="kevin_window_main_amount_label">Fizetés összege</string>
     <string name="kevin_window_main_country_label">Ország</string>

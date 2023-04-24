@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Spenden • %s EUR</string>
     <string name="kevin_window_main_bank_payment">Bankzahlung</string>
     <string name="kevin_window_main_card_payment">Kartenzahlung</string>
-    <string name="kevin_window_main_details_lable">Daten eingeben</string>
+    <string name="kevin_window_main_details_label">Daten eingeben</string>
     <string name="kevin_window_main_email_label">E-Mail-Adresse</string>
     <string name="kevin_window_main_amount_label">Zahlungsbetrag</string>
     <string name="kevin_window_main_country_label">Land</string>

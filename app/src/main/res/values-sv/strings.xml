@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Skänk • %s EUR</string>
     <string name="kevin_window_main_bank_payment">Bankbetalning</string>
     <string name="kevin_window_main_card_payment">Kortbetalning</string>
-    <string name="kevin_window_main_details_lable">Fyll i uppgifter</string>
+    <string name="kevin_window_main_details_label">Fyll i uppgifter</string>
     <string name="kevin_window_main_email_label">E-postadress</string>
     <string name="kevin_window_main_amount_label">Belopp att betala</string>
     <string name="kevin_window_main_country_label">Land</string>

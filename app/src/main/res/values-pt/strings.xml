@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Doar • %s EUR</string>
     <string name="kevin_window_main_bank_payment">Pagamento bancário</string>
     <string name="kevin_window_main_card_payment">Pagamento por cartão</string>
-    <string name="kevin_window_main_details_lable">Introduza os dados</string>
+    <string name="kevin_window_main_details_label">Introduza os dados</string>
     <string name="kevin_window_main_email_label">E-mail</string>
     <string name="kevin_window_main_amount_label">Quantia do pagamento</string>
     <string name="kevin_window_main_country_label">País</string>

@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/account_linking"
-        android:title="Account Linking"
-        android:icon="@drawable/kevin_ic_account_linking_tab"/>
+        android:icon="@drawable/kevin_ic_account_linking_tab"
+        android:title="@string/kevin_menu_title_account_linking"
+        />
     <item
         android:id="@+id/payment"
-        android:title="Demo Payment"
-        android:icon="@drawable/kevin_ic_payment_tab"/>
+        android:icon="@drawable/kevin_ic_payment_tab"
+        android:title="@string/kevin_menu_title_demo_payment"
+        />
 </menu>

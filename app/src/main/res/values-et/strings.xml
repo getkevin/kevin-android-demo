@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Anneta %s eurot</string>
     <string name="kevin_window_main_bank_payment">Pangaülekanne</string>
     <string name="kevin_window_main_card_payment">Kaardimakse</string>
-    <string name="kevin_window_main_details_lable">Sisestage üksikasjad</string>
+    <string name="kevin_window_main_details_label">Sisestage üksikasjad</string>
     <string name="kevin_window_main_email_label">E-post</string>
     <string name="kevin_window_main_amount_label">Makse summa</string>
     <string name="kevin_window_main_country_label">Riik</string>

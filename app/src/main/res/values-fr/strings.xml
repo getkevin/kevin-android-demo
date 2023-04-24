@@ -7,7 +7,7 @@
     <string name="kevin_window_main_bank_payment">
 Paiement bancaire</string>
     <string name="kevin_window_main_card_payment">Paiement par carte</string>
-    <string name="kevin_window_main_details_lable">Saisissez les détails</string>
+    <string name="kevin_window_main_details_label">Saisissez les détails</string>
     <string name="kevin_window_main_email_label">E-mail</string>
     <string name="kevin_window_main_amount_label">Montant du paiement</string>
     <string name="kevin_window_main_country_label">Pays</string>

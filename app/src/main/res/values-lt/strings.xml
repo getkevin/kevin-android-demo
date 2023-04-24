@@ -6,7 +6,7 @@
     <string name="kevin_window_main_proceed_button">Aukoti • %s EUR</string>
     <string name="kevin_window_main_bank_payment">Bankinis mokėjimas</string>
     <string name="kevin_window_main_card_payment">Mokėjimas kortele</string>
-    <string name="kevin_window_main_details_lable">Įveskite informaciją</string>
+    <string name="kevin_window_main_details_label">Įveskite informaciją</string>
     <string name="kevin_window_main_email_label">El. pašto adresas</string>
     <string name="kevin_window_main_amount_label">Mokėjimo suma</string>
     <string name="kevin_window_main_country_label">Šalis</string>
