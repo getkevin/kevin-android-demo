@@ -16,6 +16,7 @@ internal class DemoApplication : Application() {
         // Set SDK's locale
         // device's default locale will be used if not set
         Kevin.setLocale(Locale("en"))
+        Kevin.setSandbox(true)
         Kevin.setTheme(R.style.KevinTheme)
         Kevin.setDeepLinkingEnabled(true)
         KevinAccountsPlugin.configure(

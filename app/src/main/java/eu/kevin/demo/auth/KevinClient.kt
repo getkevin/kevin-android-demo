@@ -29,7 +29,7 @@ internal class KevinClient(private val httpClient: HttpClient) : KevinApiClient 
     }
 
     override suspend fun getAuthState(request: InitiateAuthenticationRequest): String {
-        return httpClient.post("auth/initiate/") {
+        return httpClient.post("auth/initiate?environment=SANDBOX&bankMode=TEST") {
             setBody(request)
         }.body<ApiAuthState>().state
     }
@@ -41,7 +41,7 @@ internal class KevinClient(private val httpClient: HttpClient) : KevinApiClient 
     override suspend fun initializeBankPayment(
         request: InitiatePaymentRequest
     ): ApiPayment {
-        return httpClient.post("payments/bank/") {
+        return httpClient.post("payments/bank?environment=SANDBOX&bankMode=TEST") {
             setBody(request)
         }.body()
     }
@@ -59,7 +59,7 @@ internal class KevinClient(private val httpClient: HttpClient) : KevinApiClient 
     override suspend fun initializeCardPayment(
         request: InitiatePaymentRequest
     ): ApiPayment {
-        return httpClient.post("payments/card/") {
+        return httpClient.post("payments/card?environment=SANDBOX&bankMode=TEST") {
             setBody(request)
         }.body()
     }
