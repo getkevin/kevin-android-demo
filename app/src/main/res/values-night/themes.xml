@@ -53,6 +53,7 @@
 
         <item name="colorControlHighlight">@color/blue</item>
         <item name="colorControlActivated">@color/blue</item>
+        <item name="colorControlNormal">@color/gray_2</item>
 
         <item name="bottomSheetDialogTheme">@style/BottomSheetTheme</item>
 
@@ -74,7 +75,7 @@
         <item name="kevinSelectionViewStyle">@style/SelectionView</item>
         <item name="kevinProgressViewStyle">@style/Kevin.ProgressView</item>
         <item name="kevinHeaderStyle">@style/Kevin.Header</item>
-        <item name="kevinBankListItemContainerStyle">@style/Kevin.List.BankContainer</item>
+        <item name="kevinBankListItemContainerStyle">@style/KevinBankContainer</item>
         <item name="kevinCountryListItemContainerStyle">@style/KevinCountryContainer</item>
 
         <item name="kevinMarginStart">16dp</item>
