@@ -85,7 +85,6 @@ internal class PaymentView(context: Context) : FrameLayout(context), IView<Payme
         creditorsAdapter.update(state.creditors)
         when (state.loadingState) {
             is LoadingState.Loading -> startLoading(state.loadingState.isLoading())
-            is LoadingState.FailureWithMessage -> showError(state.loadingState.message)
             is LoadingState.Failure -> {
                 showError(getErrorMessage(state.loadingState.error))
             }
