@@ -155,6 +155,7 @@
     </style>
 
     <style name="SelectionView" parent="Kevin.SelectionView">
+        <item name="android:background">@drawable/kevin_selection_view_background</item>
         <item name="android:textAppearance">@style/TextAppearance.Title1</item>
         <item name="android:layout_marginStart">16dp</item>
         <item name="android:layout_marginEnd">16dp</item>
@@ -168,6 +169,10 @@
     <style name="TextInput.Layout.Kevin" parent="TextInput.Layout">
         <item name="android:layout_marginStart">16dp</item>
         <item name="android:layout_marginEnd">16dp</item>
+    </style>
+
+    <style name="KevinBankContainer" parent="Kevin.List.BankContainer">
+        <item name="android:background">@drawable/kevin_bank_list_item_background</item>
     </style>
 
 </resources>
